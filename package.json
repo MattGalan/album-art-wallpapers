@@ -6,9 +6,13 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.0",
+    "animejs": "^3.2.1",
+    "jimp": "^0.16.1",
     "react": "^17.0.1",
+    "react-color": "^2.19.3",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
+    "styled-components": "^5.2.1",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
@@ -23,6 +27,7 @@
       "react-app/jest"
     ]
   },
+  "prettier": {},
   "browserslist": {
     "production": [
       ">0.2%",
